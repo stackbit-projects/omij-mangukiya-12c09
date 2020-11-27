@@ -6,8 +6,8 @@ sections:
     type: section_hero
     title: 'Hi, I''m Omij '
     content: >-
-      This section can contain a subtitle or tagline. The recommended length is
-      one to three sentences, but can be changed as you prefer.
+      I am a passionate developer, who is always eagarly want to learn and
+      develop new things!
   - section_id: about
     type: section_content
     title: About
